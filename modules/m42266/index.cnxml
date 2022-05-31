@@ -1,0 +1,43 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Disintermediation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42266</md:content-id>
+  <md:title>Disintermediation</md:title>
+  <md:abstract>This module discusses disintermediation in the electronic commerce value chain.</md:abstract>
+  <md:uuid>5c7f6749-7a0c-429a-8807-1a254abb30d3</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167565600228">This is an adaptation of an excerpt from "Electronic Commerce: The Strategic Perspective" © 2008 by Richard T. Watson, Pierre Berthon, Leyland F. Pitt, and George M. Zinkhan, used under a Creative Commons Attribution license: <link url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</link>.</para>
+    <para id="id5693048">Electronic commerce offers many opportunities to reformulate traditional modes of business. Disintermediation, the elimination of intermediaries such as brokers and dealers, is one possible outcome in some industries. Some speculate that electronic commerce will result in widespread disintermediation, which makes it a strategic issue that most firms should carefully address. A closer analysis enables us to provide some guidance on identifying those industries least, and most, threatened by disintermediation.</para>
+    <para id="id1167578923290">Consider the case of Manheim Auctions. It auctions cars for auto makers (at the termination of a lease) and rental companies (when they wish to retire a car). As an intermediary, it is part of a chain that starts with the car owner (lessor or rental company) and ends with the consumer. In a truncated value chain, Manheim and the car dealer are deleted. The car's owner sells directly to the consumer. Given the Internet's capability of linking these parties, it is not surprising that moves are already afoot to remove the auctioneer.</para>
+    <para id="id1167565589691">Edmunds, publisher of hard-copy and Web-based guides to new and used cars, is linking with a large autoleasing company to offer direct buying to customers. Cars returned at the end of the lease will be sold with a warranty, and financing will be arranged through the Web site. No dealers will be involved. The next stage is for car manufacturers to sell directly to consumers, a willingness Toyota has expressed and that large U.S. auto makers are considering. On the other hand, a number of dealers are seeking to link themselves to customers through the Internet via the Autobytel Web site. Consumers contacting this site provide information on the vehicle desired and are directed to a dealer in their area who is willing to offer them a very low markup on the desired vehicle.</para>
+    <para id="id1167586944030">We gain greater insight into disintermediation by taking a more abstract view of the situation (see Figure 1). A value chain consists of a series of organizations that progressively convert some raw material into a product in the hands of a consumer. The beginning of the chain is O1 (e.g., an iron ore miner) and the end is On (e.g., a car owner). Associated with a value chain are physical and information flows, and the information flow is usually bidirectional. Observe that it is really a value network rather than a chain, because any organization may receive inputs from multiple upstream objects.</para>
+<figure id="exhibit2">
+  <media id="Valuenetwork" alt="Value network">
+    <image mime-type="image/png" src="../../media/exhibit 2.PNG"/>
+  </media>
+  <caption>
+     Value network.
+  </caption>
+</figure>
+    
+    
+    
+    <para id="id1167584792208">disintermediation threat grid (see Figure 2). The threat to Manheim is low because of its economies of scale, large investment in specialized assets that a competitor must duplicate, and a well-developed skill in processing a variety of transactions. Car dealers are another matter because they are typically small, have few specialized assets, and little transaction diversity. For dealers, disintermediation is a high threat. The on-line lot can easily replace the physical lot.</para>
+<figure id="exhibit3">
+  <media id="Disintermediation" alt="Disintermediation threat grid">
+    <image mime-type="image/png" src="../../media/exhibit3.PNG"/>
+  </media>
+  <caption>
+     Disintermediation threat grid.
+  </caption>
+</figure>
+    
+    <para id="id1167584046676">We need to keep in mind that disintermediation is not a binary event (i.e., it is not on or off for the entire system). Rather, it is on or off for some linkages in the value network. For example, some consumers are likely to prefer to interact with dealers. What is more likely to emerge is greater consumer choice in terms of products and buying relationships. Thus, to be part of a consumer's options, Manheim needs to be willing to deal directly with consumers. While this is likely to lead to channel conflict and confusion, it is an inevitable outcome of the consumer's demand for greater choice.</para>
+    <para id="id1167565584652">
+      <emphasis effect="bold">Cases</emphasis>
+    </para>
+    <para id="id1167580394624">McKeown, P. G., &amp; Watson, R. T. (1999). <emphasis effect="italics">Manheim Auctions</emphasis>. Communications of the AIS, 1(20), 1-20.</para>
+  </content>
+</document>
