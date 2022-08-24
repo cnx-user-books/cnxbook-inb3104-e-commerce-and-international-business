@@ -1,55 +1,20 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="Ulrich Werner">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11668</md:content-id>
-  <md:title>INB3104 E-Commerce and International Business</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  <md:uuid>bef5bd60-fa68-4fa0-afbb-c7cc3589d4e0</md:uuid>
-<md:slug>inb3104-e-commerce-and-international-business</md:slug>
-</metadata>
-
+    <md:content-id>col11668</md:content-id>
+    <md:title>INB3104 E-Commerce and International Business</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>bef5bd60-fa68-4fa0-afbb-c7cc3589d4e0</md:uuid>
+    <md:slug>inb3104-e-commerce-and-international-business</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m42262"/>
-        
-      
-    
-    
-      <col:module document="m42264"/>
-        
-      
-    
-    
-      <col:module document="m42265"/>
-        
-      
-    
-    
-      <col:module document="m42266"/>
-        
-      
-    
-    
-      <col:module document="m42269"/>
-        
-      
-    
-    
-      <col:module document="m42263"/>
-        
-      
-    
-    
-      <col:module document="m42267"/>
-        
-      
-    
+    <col:module document="m42262"/>
+    <col:module document="m42264"/>
+    <col:module document="m42265"/>
+    <col:module document="m42266"/>
+    <col:module document="m42269"/>
+    <col:module document="m42263"/>
+    <col:module document="m42267"/>
   </col:content>
 </col:collection>
